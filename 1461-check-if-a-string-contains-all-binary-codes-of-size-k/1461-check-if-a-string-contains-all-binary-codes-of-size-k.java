@@ -7,7 +7,6 @@ class Solution {
             l++;
             r++;
         }
-        if(set.size() == Math.pow(2, k)) return true;
-        return false;
+        return set.size() == (1 << k);
     }
 }
