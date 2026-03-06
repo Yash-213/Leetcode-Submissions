@@ -42,4 +42,13 @@ In this repo i am stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
