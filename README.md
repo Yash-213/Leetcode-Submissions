@@ -1,5 +1,5 @@
 # Leetcode-Submissions
-In this repo i am stored ans of leetcode quetions in java language
+In this repo i stored ans of leetcode quetions in java language
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
