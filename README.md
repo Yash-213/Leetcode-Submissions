@@ -52,10 +52,16 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0202-happy-number/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0202-happy-number/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
