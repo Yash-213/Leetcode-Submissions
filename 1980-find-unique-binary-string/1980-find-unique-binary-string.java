@@ -1,9 +1,6 @@
 class Solution {
     public String findDifferentBinaryString(String[] nums) {
         ArrayList<String> ans = new ArrayList<>();
-        if(nums.length == 2) {
-            ans.add("00");
-        }
         possibleList(ans, "", nums.length);
         for(int i = 0; i < ans.size(); i++) {
             boolean flag = true;
@@ -15,7 +12,7 @@ class Solution {
             }
             if(flag) return ans.get(i);
         }
-        return " ";
+        return "";
     }
     static void possibleList(ArrayList<String> list, String n, int idx) {
         if (idx == 0) {
