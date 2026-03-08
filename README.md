@@ -47,6 +47,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0148-sort-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -60,10 +61,23 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0148-sort-list/) | Medium |
 | [0202-happy-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0202-happy-number/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0202-happy-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0148-sort-list/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
