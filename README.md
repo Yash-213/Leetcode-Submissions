@@ -102,5 +102,6 @@ In this repo i stored ans of leetcode quetions in java language
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0476-number-complement](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 <!---LeetCode Topics End-->
