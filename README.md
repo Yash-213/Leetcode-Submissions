@@ -7,6 +7,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0137-single-number-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0137-single-number-ii/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -115,6 +116,7 @@ In this repo i stored ans of leetcode quetions in java language
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0137-single-number-ii/) | Medium |
 | [0476-number-complement](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Game Theory
