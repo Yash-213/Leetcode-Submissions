@@ -10,6 +10,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0137-single-number-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0137-single-number-ii/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3788-maximum-score-of-a-split](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3788-maximum-score-of-a-split/) | Medium |
@@ -29,6 +30,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
 | Problem Name | Difficulty |
