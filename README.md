@@ -8,6 +8,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0040-combination-sum-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0137-single-number-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -81,6 +82,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0141-linked-list-cycle](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0202-happy-number/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -123,6 +125,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -134,4 +137,8 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
