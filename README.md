@@ -14,6 +14,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2906-construct-product-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3788-maximum-score-of-a-split](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3788-maximum-score-of-a-split/) | Medium |
 ## Backtracking
@@ -33,6 +34,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2906-construct-product-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -121,6 +123,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [2906-construct-product-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3788-maximum-score-of-a-split](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3788-maximum-score-of-a-split/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
