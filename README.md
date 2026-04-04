@@ -119,6 +119,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0202-happy-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0202-happy-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
