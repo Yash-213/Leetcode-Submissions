@@ -12,6 +12,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0238-product-of-array-except-self](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -70,6 +71,7 @@ In this repo i stored ans of leetcode quetions in java language
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0874-walking-robot-simulation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Linked List
@@ -98,6 +100,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0142-linked-list-cycle-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0202-happy-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Two Pointers
