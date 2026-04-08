@@ -22,6 +22,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3788-maximum-score-of-a-split](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3788-maximum-score-of-a-split/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0874-walking-robot-simulation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +132,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0148-sort-list/) | Medium |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
