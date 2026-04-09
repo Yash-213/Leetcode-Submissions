@@ -32,6 +32,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0040-combination-sum-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0040-combination-sum-ii/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +61,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2370-longest-ideal-subsequence](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +172,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0137-single-number-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0137-single-number-ii/) | Medium |
 | [0476-number-complement](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
