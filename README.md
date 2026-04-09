@@ -76,6 +76,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Linked List
@@ -131,6 +132,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0728-self-dividing-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
