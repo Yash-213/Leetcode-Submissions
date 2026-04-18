@@ -1,4 +1,4 @@
-# Simple | Beggeiner Friendly
+# Simple | Begginer Friendly
 
 # Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
