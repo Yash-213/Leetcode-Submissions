@@ -6,6 +6,11 @@ class Solution {
                 dist = i;
             }
         }
+        for(int i = 0; i < colors.length; i++) {
+            if(colors[i] != colors[colors.length - 1]) {
+                dist = Math.max(dist, colors.length - i - 1);
+            }
+        }
         return dist;
     }
 }
