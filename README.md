@@ -18,6 +18,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0877-stone-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0877-stone-game/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
+| [1470-shuffle-the-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
