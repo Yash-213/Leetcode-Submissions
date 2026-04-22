@@ -33,6 +33,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2022-convert-1d-array-into-2d-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
@@ -86,6 +87,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2370-longest-ideal-subsequence](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2370-longest-ideal-subsequence/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -290,4 +292,8 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 <!---LeetCode Topics End-->
