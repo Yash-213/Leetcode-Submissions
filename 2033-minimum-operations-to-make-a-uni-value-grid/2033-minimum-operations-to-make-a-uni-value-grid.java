@@ -1,17 +1,22 @@
 class Solution {
     public int minOperations(int[][] grid, int x) {
-        int m = grid.length, n = grid[0].length;
+        int m = grid.length, n = grid[0].length, idx = 0;
         int[] arr = new int[m * n];
-        int idx = 0;
-        for(int i = 0; i < m; i++) {
-            for(int j = 0; j < n; j++) {
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
                 arr[idx++] = grid[i][j];
             }
         }
         Arrays.sort(arr);
-        int mid = arr[arr.length / 2], move = 0;
-        for(int a : arr) {
-            move += Math.abs(mid - a);
+        int move = 0;
+        int mid = arr[arr.length / 2];
+        for (int a : arr) {
+            int diff = Math.abs(a - mid);
+            if (diff % x != 0) {
+                return -1;
+            }
+
+            move += diff / x;
         }
         return move;
     }
