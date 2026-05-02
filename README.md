@@ -188,6 +188,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0396-rotate-function](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0396-rotate-function/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0788-rotated-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0877-stone-game/) | Medium |
 | [1017-convert-to-base-2](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1017-convert-to-base-2/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -275,6 +276,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0877-stone-game/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2370-longest-ideal-subsequence](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2370-longest-ideal-subsequence/) | Medium |
