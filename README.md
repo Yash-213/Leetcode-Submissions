@@ -83,6 +83,7 @@ In this repo i stored ans of leetcode quetions in java language
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -324,4 +325,8 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0997-find-the-town-judge/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
