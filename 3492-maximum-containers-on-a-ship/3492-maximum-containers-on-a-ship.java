@@ -1,12 +1,5 @@
 class Solution {
     public int maxContainers(int n, int w, int maxWeight) {
-        int count = 0;
-        for(int i = 0; i < n * n; i++) {
-            if(maxWeight >= w) {
-                count++;
-                maxWeight -= w;
-            }
-        }
-        return count;
+        return Math.min(n * n, maxWeight / w);
     }
 }
