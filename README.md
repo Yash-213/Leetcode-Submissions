@@ -10,6 +10,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0040-combination-sum-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0137-single-number-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0137-single-number-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0396-rotate-function](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0396-rotate-function/) | Medium |
@@ -65,6 +66,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0037-sudoku-solver/) | Hard |
 | [0040-combination-sum-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0216-combination-sum-iii/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
