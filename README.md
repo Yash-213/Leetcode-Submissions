@@ -36,6 +36,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1861-rotating-the-box](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
