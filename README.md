@@ -12,6 +12,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0037-sudoku-solver](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0037-sudoku-solver/) | Hard |
 | [0040-combination-sum-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0048-rotate-image/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0137-single-number-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0137-single-number-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0216-combination-sum-iii/) | Medium |
@@ -93,6 +94,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0048-rotate-image/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -147,6 +149,7 @@ In this repo i stored ans of leetcode quetions in java language
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
