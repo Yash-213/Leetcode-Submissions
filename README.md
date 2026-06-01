@@ -54,6 +54,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -92,6 +93,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,6 +279,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
