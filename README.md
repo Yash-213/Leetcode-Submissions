@@ -69,6 +69,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -96,6 +97,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2126-destroying-asteroids](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +241,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2540-minimum-common-value](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -289,6 +292,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,6 +350,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2540-minimum-common-value](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
