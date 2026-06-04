@@ -267,6 +267,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Divide and Conquer
@@ -369,6 +370,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2370-longest-ideal-subsequence](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3660-jump-game-ix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3660-jump-game-ix/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -424,4 +426,8 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0796-rotate-string/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
