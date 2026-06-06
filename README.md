@@ -61,6 +61,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
@@ -309,6 +310,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0238-product-of-array-except-self](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3788-maximum-score-of-a-split](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3788-maximum-score-of-a-split/) | Medium |
