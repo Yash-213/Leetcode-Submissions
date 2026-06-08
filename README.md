@@ -56,6 +56,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -170,6 +171,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1929-concatenation-of-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2043-simple-bank-system](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2043-simple-bank-system/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
@@ -242,6 +244,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0234-palindrome-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1861-rotating-the-box](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1861-rotating-the-box/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
