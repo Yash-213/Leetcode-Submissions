@@ -14,6 +14,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0048-rotate-image](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0137-single-number-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -93,6 +94,7 @@ In this repo i stored ans of leetcode quetions in java language
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
@@ -371,6 +373,7 @@ In this repo i stored ans of leetcode quetions in java language
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0396-rotate-function](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0877-stone-game/) | Medium |
