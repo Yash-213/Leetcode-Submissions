@@ -126,6 +126,7 @@ In this repo i stored ans of leetcode quetions in java language
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0504-base-7](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0504-base-7/) | Easy |
 | [0796-rotate-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -257,6 +258,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0048-rotate-image/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0202-happy-number/) | Easy |
 | [0396-rotate-function](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0396-rotate-function/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
