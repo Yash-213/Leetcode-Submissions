@@ -414,6 +414,7 @@ In this repo i stored ans of leetcode quetions in java language
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0386-lexicographical-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [1306-jump-game-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -425,6 +426,7 @@ In this repo i stored ans of leetcode quetions in java language
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0386-lexicographical-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Breadth-First Search
