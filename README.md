@@ -45,6 +45,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1848-minimum-distance-to-the-target-element](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1861-rotating-the-box](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -305,6 +306,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
