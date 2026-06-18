@@ -283,6 +283,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1017-convert-to-base-2](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1017-convert-to-base-2/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
