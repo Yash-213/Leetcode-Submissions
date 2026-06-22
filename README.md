@@ -141,6 +141,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0893-groups-of-special-equivalent-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1447-simplified-fractions](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1447-simplified-fractions/) | Medium |
@@ -234,6 +235,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0893-groups-of-special-equivalent-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -439,6 +441,7 @@ In this repo i stored ans of leetcode quetions in java language
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
