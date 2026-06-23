@@ -38,6 +38,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1306-jump-game-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -185,6 +186,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -367,6 +369,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2390-removing-stars-from-a-string/) | Medium |
