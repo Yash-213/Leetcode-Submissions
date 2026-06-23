@@ -37,6 +37,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1306-jump-game-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -365,6 +366,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0234-palindrome-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -432,6 +434,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0707-design-linked-list/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [2043-simple-bank-system](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2043-simple-bank-system/) | Medium |
 ## Concurrency
 | Problem Name | Difficulty |
