@@ -17,6 +17,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0088-merge-sorted-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0137-single-number-ii/) | Medium |
+| [0169-majority-element](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0216-combination-sum-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -233,6 +234,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0037-sudoku-solver](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0037-sudoku-solver/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0169-majority-element](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0202-happy-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -323,6 +325,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -333,6 +336,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0016-3sum-closest](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0645-set-mismatch/) | Easy |
@@ -455,6 +459,7 @@ In this repo i stored ans of leetcode quetions in java language
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
