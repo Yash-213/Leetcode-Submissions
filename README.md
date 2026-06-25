@@ -149,6 +149,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1447-simplified-fractions](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1447-simplified-fractions/) | Medium |
+| [1544-make-the-string-great](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1544-make-the-string-great/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -378,6 +379,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1544-make-the-string-great](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1544-make-the-string-great/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2390-removing-stars-from-a-string/) | Medium |
