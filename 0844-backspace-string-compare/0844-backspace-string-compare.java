@@ -1,23 +1,17 @@
 class Solution {
     public boolean backspaceCompare(String s, String t) {
+        return remover(s).equals(remover(t));
+    }
+    private static String remover (String s) {
         Stack<Character> sk = new Stack<>();
-        for (char ch : s.toCharArray()) {
-            if (!sk.empty() && ch == '#') sk.pop();
-            else if (ch != '#') sk.push(ch);
+
+        for (char c : s.toCharArray()) {
+            if (!sk.empty() && c == '#') sk.pop();
+            else if (c != '#') sk.push(c);
         }
-        String a = "";
-        while (!sk.empty()) {
-            a += sk.pop();
-        }
-        for (char ch : t.toCharArray()) {
-            if (!sk.empty() && ch == '#') sk.pop();
-            else if (ch != '#') sk.push(ch);
-        }
-        if (a.length() != sk.size()) return false;
-        for (int i = 0; i < a.length(); i++) {
-            if (a.charAt(i) != sk.peek()) return false;
-            sk.pop();
-        }
-        return true;
+        StringBuilder str = new StringBuilder();
+        while (!sk.empty()) str.append(sk.pop());
+
+        return str.toString();
     }
 }
