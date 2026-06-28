@@ -15,6 +15,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0040-combination-sum-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0048-rotate-image/) | Medium |
+| [0056-merge-intervals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -351,6 +352,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0015-3sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0016-3sum-closest/) | Medium |
+| [0056-merge-intervals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
