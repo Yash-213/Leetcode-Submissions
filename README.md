@@ -150,6 +150,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0242-valid-anagram](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0504-base-7](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0504-base-7/) | Easy |
 | [0796-rotate-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
@@ -252,6 +253,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0142-linked-list-cycle-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0202-happy-number/) | Easy |
+| [0242-valid-anagram](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0645-set-mismatch/) | Easy |
@@ -359,6 +361,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0088-merge-sorted-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0645-set-mismatch/) | Easy |
