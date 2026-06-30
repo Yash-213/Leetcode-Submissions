@@ -155,6 +155,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0168-excel-sheet-column-title](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0242-valid-anagram/) | Easy |
+| [0415-add-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0504-base-7/) | Easy |
 | [0796-rotate-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
@@ -208,6 +209,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0415-add-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0415-add-strings/) | Easy |
 | [0682-baseball-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -327,6 +329,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0171-excel-sheet-column-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0202-happy-number/) | Easy |
 | [0396-rotate-function](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0396-rotate-function/) | Medium |
+| [0415-add-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0415-add-strings/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0504-base-7/) | Easy |
