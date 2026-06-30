@@ -168,6 +168,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1447-simplified-fractions](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1447-simplified-fractions/) | Medium |
 | [1544-make-the-string-great](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1544-make-the-string-great/) | Easy |
@@ -275,6 +276,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -509,6 +511,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
