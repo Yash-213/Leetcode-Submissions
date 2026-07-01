@@ -123,6 +123,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -177,6 +178,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -350,6 +352,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
