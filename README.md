@@ -162,6 +162,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0242-valid-anagram](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0415-add-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0504-base-7/) | Easy |
+| [0520-detect-capital](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0520-detect-capital/) | Easy |
 | [0796-rotate-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
