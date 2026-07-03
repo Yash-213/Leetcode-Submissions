@@ -1,28 +1,20 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        return permutationsNumbList(nums, 0);
+        List<List<Integer>> l = new ArrayList<>();
+        find (new ArrayList<>(), nums, l);
+        return l;
     }
-    static List<List<Integer>> permutationsNumbList(int[] arr, int idx){
-        if (idx == arr.length){
-            List<List<Integer>> outer = new ArrayList<>();
-            List<Integer> internal = new ArrayList<>();
-            for (int num : arr) {
-                internal.add(num);
+    private static void find(List<Integer> ans, int[] arr, List<List<Integer>> l) {
+        if (ans.size() == arr.length) {
+            l.add(new ArrayList<>(ans));
+            return;
+        }
+        for (int i = 0; i < arr.length; i++) {
+            if (ans.contains(arr[i]) == false) {
+                ans.add(arr[i]);
+                find(ans , arr, l);
+                ans.remove(ans.size() - 1);
             }
-            outer.add(internal);
-            return outer;
         }
-        List<List<Integer>> list = new ArrayList<>();
-
-        for (int i = idx; i < arr.length; i++) {
-            int temp = arr[idx];
-            arr[idx] = arr[i];
-            arr[i] = temp;
-            list.addAll(permutationsNumbList(arr, idx + 1));
-            temp = arr[idx];
-            arr[idx] = arr[i];
-            arr[i] = temp;
-        }
-        return list;
     }
 }
