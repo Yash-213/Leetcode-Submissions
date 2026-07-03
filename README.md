@@ -13,6 +13,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0033-search-in-rotated-sorted-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0046-permutations/) | Medium |
@@ -112,6 +113,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0046-permutations/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0216-combination-sum-iii/) | Medium |
