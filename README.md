@@ -351,6 +351,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0504-base-7/) | Easy |
+| [0507-perfect-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0507-perfect-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0877-stone-game/) | Medium |
