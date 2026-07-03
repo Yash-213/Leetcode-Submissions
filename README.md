@@ -116,6 +116,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0039-combination-sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0046-permutations/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0216-combination-sum-iii/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -165,6 +166,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -503,6 +505,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0396-rotate-function](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0877-stone-game/) | Medium |
