@@ -18,6 +18,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0042-trapping-rain-water](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0048-rotate-image/) | Medium |
+| [0051-n-queens](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0051-n-queens/) | Hard |
 | [0056-merge-intervals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -118,6 +119,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0039-combination-sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0216-combination-sum-iii/) | Medium |
