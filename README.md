@@ -455,6 +455,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0143-reorder-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0682-baseball-game/) | Easy |
@@ -567,6 +568,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0079-word-search/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [1306-jump-game-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1306-jump-game-iii/) | Medium |
@@ -607,4 +609,12 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
