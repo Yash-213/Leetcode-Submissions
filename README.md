@@ -536,6 +536,7 @@ In this repo i stored ans of leetcode quetions in java language
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0176-second-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0183-customers-who-never-order/) | Easy |
 ## Design
