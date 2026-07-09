@@ -29,6 +29,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0169-majority-element](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0200-number-of-islands](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0216-combination-sum-iii/) | Medium |
+| [0217-contains-duplicate](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -297,6 +298,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0160-intersection-of-two-linked-lists](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0202-happy-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -414,6 +416,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0088-merge-sorted-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0414-third-maximum-number/) | Easy |
