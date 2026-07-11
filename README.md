@@ -183,6 +183,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0171-excel-sheet-column-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0415-add-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0415-add-strings/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0504-base-7](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0504-base-7/) | Easy |
 | [0520-detect-capital](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -302,6 +303,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0202-happy-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0242-valid-anagram/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0645-set-mismatch/) | Easy |
@@ -560,6 +562,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
