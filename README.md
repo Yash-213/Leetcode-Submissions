@@ -47,6 +47,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0874-walking-robot-simulation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0877-stone-game/) | Medium |
+| [0890-find-and-replace-pattern](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -189,6 +190,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0796-rotate-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
+| [0890-find-and-replace-pattern](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -309,6 +311,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0645-set-mismatch/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0890-find-and-replace-pattern](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
