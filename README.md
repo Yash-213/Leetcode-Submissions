@@ -219,6 +219,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2833-furthest-point-from-origin](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
