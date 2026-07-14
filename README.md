@@ -21,6 +21,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0051-n-queens](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0051-n-queens/) | Hard |
 | [0056-merge-intervals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -155,6 +156,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0037-sudoku-solver](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0200-number-of-islands/) | Medium |
@@ -300,6 +302,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0037-sudoku-solver/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
