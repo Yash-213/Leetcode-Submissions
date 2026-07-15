@@ -1,11 +1,11 @@
 class Solution {
     public int maxDistinct(String s) {
-        HashSet<Character> set = new HashSet<>();
+        int[] freq = new int[26];
         int count = 0;
         for (int i = 0; i < s.length(); i++) {
-            if (!set.contains(s.charAt(i))) {
+            if (freq[s.charAt(i) - 'a'] == 0) {
                 count++;
-                set.add(s.charAt(i));
+                freq[s.charAt(i) - 'a']++;
             }
         }
         return count;
