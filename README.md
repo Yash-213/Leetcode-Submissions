@@ -233,6 +233,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3174-clear-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3174-clear-digits/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -342,6 +343,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3488-closest-equal-element-queries](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
