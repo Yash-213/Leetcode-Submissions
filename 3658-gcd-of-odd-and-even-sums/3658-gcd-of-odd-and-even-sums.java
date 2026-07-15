@@ -6,8 +6,12 @@ class Solution {
         return gcd(evenSum, oddSum);
     }
 
-    static int gcd(int a, int b){
-        if(a == 0) return b;
-        return gcd(b % a, a);
+    static int gcd(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
     }
 }
