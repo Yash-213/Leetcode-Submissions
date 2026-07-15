@@ -98,6 +98,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2553-separate-the-digits-in-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -468,6 +469,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1732-find-the-highest-altitude](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3788-maximum-score-of-a-split](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3788-maximum-score-of-a-split/) | Medium |
 ## Stack
