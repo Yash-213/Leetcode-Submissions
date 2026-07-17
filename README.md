@@ -97,6 +97,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
@@ -272,6 +273,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [3174-clear-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3174-clear-digits/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -376,6 +378,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2161-partition-array-according-to-given-pivot](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2540-minimum-common-value](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2540-minimum-common-value/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
