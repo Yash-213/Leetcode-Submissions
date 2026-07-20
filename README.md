@@ -55,6 +55,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1306-jump-game-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -171,6 +172,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0240-search-a-2d-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0766-toeplitz-matrix/) | Easy |
+| [1260-shift-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -262,6 +264,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0844-backspace-string-compare](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1103-distribute-candies-to-people](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1103-distribute-candies-to-people/) | Easy |
+| [1260-shift-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
