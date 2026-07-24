@@ -43,6 +43,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0645-set-mismatch](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0645-set-mismatch/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0682-baseball-game/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -493,6 +494,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -564,6 +566,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0074-search-a-2d-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
@@ -615,6 +618,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
