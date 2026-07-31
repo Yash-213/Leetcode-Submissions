@@ -165,6 +165,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2895-minimum-processing-time](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2895-minimum-processing-time/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Matrix
@@ -245,6 +246,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -362,6 +364,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2615-sum-of-distances](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -495,6 +498,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2895-minimum-processing-time](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2895-minimum-processing-time/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -653,6 +657,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
