@@ -1,18 +1,13 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
-        List<Integer> list = new ArrayList<>();
-        Arrays.sort(nums);
-        for (int i = nums[0]; i <= nums[nums.length - 1]; i++) {
-            list.add(i);
+        int min = Integer.MAX_VALUE, max = Integer.MIN_VALUE;
+        for (int n : nums) {
+            min = Math.min(min, n);
+            max = Math.max(max, n);
         }
-        int j = 0;
-        for (int i = 0; i < list.size(); i++) {
-            if (nums[j] == list.get(i)) {
-                list.remove(i);
-                j++;
-                i--;
-            }
-        }
-        return list;
+        TreeSet<Integer> set = new TreeSet<>();
+        for (int i = min; i <= max; i++) set.add(i);
+        for (int n : nums) set.remove(n);
+        return new ArrayList<>(set);
     }
 }
