@@ -125,6 +125,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3660-jump-game-ix/) | Medium |
+| [3731-find-missing-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -371,6 +372,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3731-find-missing-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -508,6 +510,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3536-maximum-product-of-two-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3731-find-missing-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
