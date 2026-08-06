@@ -60,6 +60,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1306-jump-game-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
