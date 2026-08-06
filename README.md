@@ -455,6 +455,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -714,6 +715,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1291-sequential-digits/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Queue
