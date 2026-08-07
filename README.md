@@ -95,6 +95,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2043-simple-bank-system](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2043-simple-bank-system/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2109-adding-spaces-to-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -242,6 +243,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
+| [2109-adding-spaces-to-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2370-longest-ideal-subsequence](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2370-longest-ideal-subsequence/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -297,6 +299,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2022-convert-1d-array-into-2d-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2043-simple-bank-system](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2043-simple-bank-system/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2109-adding-spaces-to-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -406,6 +409,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0876-middle-of-the-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1861-rotating-the-box](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2109-adding-spaces-to-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
