@@ -95,6 +95,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2043-simple-bank-system](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2043-simple-bank-system/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2079-watering-plants](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2079-watering-plants/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -299,6 +300,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2022-convert-1d-array-into-2d-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2043-simple-bank-system](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2043-simple-bank-system/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2079-watering-plants](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2079-watering-plants/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
