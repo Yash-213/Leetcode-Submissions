@@ -4,8 +4,9 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < ch.length; i += k) {
             int sum = 0;
-            for (int j = i; j < i + k; j++) sum += ch[j] - 'a';
-            sb.append((char)('a' + (sum % 26)));
+            for (int j = i; j < i + k; j++)
+                sum += ch[j] - 'a';
+            sb.append((char) ('a' + (sum % 26)));
         }
         return sb.toString();
     }
