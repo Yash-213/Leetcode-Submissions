@@ -34,6 +34,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0217-contains-duplicate](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0260-single-number-iii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0396-rotate-function](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0396-rotate-function/) | Medium |
 | [0414-third-maximum-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0414-third-maximum-number/) | Easy |
@@ -577,6 +578,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0137-single-number-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0260-single-number-iii/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0476-number-complement](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0476-number-complement/) | Easy |
 | [0645-set-mismatch](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0645-set-mismatch/) | Easy |
