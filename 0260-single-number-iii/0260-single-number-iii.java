@@ -5,9 +5,8 @@ class Solution {
 
         int[] arr = new int[2];
         int i = 0;
-        for (Map.Entry<Integer, Integer> n : map.entrySet()) 
-            if (n.getValue() == 1) arr[i++] = n.getKey();
-
+        for (int num : nums) if (map.get(num) == 1) arr[i++] = num;
+        
         return arr;
     }
 }
