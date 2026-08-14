@@ -261,6 +261,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3174-clear-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3174-clear-digits/) | Easy |
@@ -385,6 +386,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -674,6 +676,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
