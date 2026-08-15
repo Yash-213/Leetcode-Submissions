@@ -6,8 +6,6 @@ class Solution {
             if (num != 0) zero = false;
             xor ^= num;
         }
-        if (zero) return 0;
-        if (xor > 0) return nums.length;
-        return nums.length - 1;
+        return zero ? 0 : xor > 0 ? nums.length : nums.length - 1;
     }
 }
