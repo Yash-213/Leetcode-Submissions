@@ -92,6 +92,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
+| [2029-stone-game-ix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2043-simple-bank-system](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2043-simple-bank-system/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -169,6 +170,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1833-maximum-ice-cream-bars](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2029-stone-game-ix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -466,6 +468,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
@@ -597,6 +600,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0486-predict-the-winner](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0877-stone-game/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [2029-stone-game-ix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2029-stone-game-ix/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -690,6 +694,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
+| [2029-stone-game-ix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2029-stone-game-ix/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -762,4 +767,16 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
