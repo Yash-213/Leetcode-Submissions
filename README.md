@@ -314,6 +314,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2390-removing-stars-from-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2562-find-the-array-concatenation-value/) | Easy |
+| [2582-pass-the-pillow](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2582-pass-the-pillow/) | Easy |
 | [3174-clear-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3174-clear-digits/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3271-hash-divided-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3271-hash-divided-string/) | Medium |
@@ -472,6 +473,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2582-pass-the-pillow](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2582-pass-the-pillow/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
