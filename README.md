@@ -121,6 +121,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2906-construct-product-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -316,6 +317,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2553-separate-the-digits-in-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2582-pass-the-pillow](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2582-pass-the-pillow/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3174-clear-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3174-clear-digits/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3271-hash-divided-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3271-hash-divided-string/) | Medium |
