@@ -173,6 +173,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1833-maximum-ice-cream-bars](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -249,6 +250,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [1927-sum-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
@@ -474,6 +476,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -609,6 +612,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0486-predict-the-winner](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0877-stone-game/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1927-sum-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2029-stone-game-ix/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 ## Monotonic Stack
