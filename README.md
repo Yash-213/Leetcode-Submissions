@@ -228,6 +228,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0520-detect-capital](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0796-rotate-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0796-rotate-string/) | Easy |
+| [0824-goat-latin](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0824-goat-latin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
