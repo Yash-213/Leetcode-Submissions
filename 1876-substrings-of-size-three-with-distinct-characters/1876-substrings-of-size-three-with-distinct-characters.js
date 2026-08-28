@@ -2,24 +2,13 @@
  * @param {string} s
  * @return {number}
  */
-var countGoodSubstrings = function(s) {
-    const freq = new Array(26).fill(0);
-    let l = 0;
-    let r = 0;
+var countGoodSubstrings = function (s) {
     let count = 0;
-    const ch = s.split('');
-    while (r < ch.length) {
-        while (l <= r && r - l + 1 > 3) {
-            freq[ch[l].charCodeAt(0) - 'a'.charCodeAt(0)]--;
-            l++;
-        }
-        freq[ch[r].charCodeAt(0) - 'a'.charCodeAt(0)]++;
-        if (r - l + 1 == 3 
-                && freq[ch[l].charCodeAt(0) - 'a'.charCodeAt(0)] == 1
-                && freq[ch[r].charCodeAt(0) - 'a'.charCodeAt(0)] == 1
-            )
-            count++;
-        r++;
+    for (let i = 0; i <= s.length - 3; i++) {
+        if (s[i] !== s[i + 1]
+            && s[i] !== s[i + 2]
+            && s[i + 1] !== s[i + 2]
+        ) count++;
     }
     return count;
 };
