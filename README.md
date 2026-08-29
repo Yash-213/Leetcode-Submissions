@@ -757,6 +757,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0200-number-of-islands](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1306-jump-game-iii/) | Medium |
@@ -786,6 +787,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -794,6 +796,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
