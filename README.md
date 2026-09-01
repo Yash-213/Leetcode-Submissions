@@ -76,6 +76,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1559-detect-cycles-in-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1630-arithmetic-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -391,6 +392,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
+| [1630-arithmetic-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -540,6 +542,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
+| [1630-arithmetic-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
