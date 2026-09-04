@@ -149,6 +149,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3838-weighted-word-mapping](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -584,6 +585,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2906-construct-product-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3788-maximum-score-of-a-split](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3788-maximum-score-of-a-split/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
