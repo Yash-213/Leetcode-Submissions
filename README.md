@@ -60,6 +60,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0997-find-the-town-judge](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1122-relative-sort-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1122-relative-sort-array/) | Easy |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
@@ -388,6 +389,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0890-find-and-replace-pattern](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0997-find-the-town-judge/) | Easy |
+| [1122-relative-sort-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1122-relative-sort-array/) | Easy |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -541,6 +543,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0645-set-mismatch](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0645-set-mismatch/) | Easy |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1122-relative-sort-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1122-relative-sort-array/) | Easy |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -724,6 +727,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
+| [1122-relative-sort-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1122-relative-sort-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -813,6 +817,7 @@ In this repo i stored ans of leetcode quetions in java language
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1122-relative-sort-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1122-relative-sort-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
@@ -826,4 +831,8 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2029-stone-game-ix/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
