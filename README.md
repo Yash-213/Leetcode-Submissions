@@ -150,6 +150,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -586,6 +587,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3354-make-array-elements-equal-to-zero](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3788-maximum-score-of-a-split](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3788-maximum-score-of-a-split/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
