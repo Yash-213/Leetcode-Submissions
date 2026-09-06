@@ -262,6 +262,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1903-largest-odd-number-in-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1927-sum-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1927-sum-game/) | Medium |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
@@ -401,6 +402,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1630-arithmetic-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2043-simple-bank-system](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2043-simple-bank-system/) | Medium |
@@ -737,6 +739,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target/) | Medium |
 | [2029-stone-game-ix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2029-stone-game-ix/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
