@@ -44,6 +44,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0485-max-consecutive-ones](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0575-distribute-candies](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0575-distribute-candies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -609,6 +610,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0232-implement-queue-using-stacks](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -651,6 +653,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
