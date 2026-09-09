@@ -1,10 +1,9 @@
 class Solution {
     public int minLengthAfterRemovals(String s) {
-        int countA = 0, countB = 0;
-        for (char c : s.toCharArray()) {
-            if (c == 'a') countA++;
-            else countB++;
-        }
-        return Math.abs(countA - countB);
+        int count = 0;
+        for (int i = 0; i < s.length(); i++) 
+            count += s.charAt(i) == 'a' ? 1 : -1;
+
+        return Math.abs(count);
     }
 }
