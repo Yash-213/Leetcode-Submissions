@@ -295,6 +295,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Recursion
@@ -631,6 +632,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2390-removing-stars-from-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 | [3174-clear-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3174-clear-digits/) | Easy |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -760,6 +762,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2833-furthest-point-from-origin](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
