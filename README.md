@@ -526,6 +526,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3783-mirror-distance-of-an-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
