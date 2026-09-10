@@ -776,6 +776,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1306-jump-game-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -827,6 +828,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -836,6 +838,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
