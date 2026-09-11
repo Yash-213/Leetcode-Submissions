@@ -136,6 +136,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3354-make-array-elements-equal-to-zero](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -311,6 +312,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0486-predict-the-winner](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -425,6 +427,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3120-count-the-number-of-special-characters-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3731-find-missing-elements/) | Easy |
@@ -812,6 +815,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1291-sequential-digits/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Queue
