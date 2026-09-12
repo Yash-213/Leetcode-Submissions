@@ -279,6 +279,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -576,6 +577,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
+| [2785-sort-vowels-in-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2895-minimum-processing-time](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2895-minimum-processing-time/) | Medium |
