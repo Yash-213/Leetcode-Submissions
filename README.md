@@ -134,6 +134,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -581,6 +582,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -689,6 +691,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -709,6 +712,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0877-stone-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0877-stone-game/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2370-longest-ideal-subsequence](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2370-longest-ideal-subsequence/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3660-jump-game-ix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3660-jump-game-ix/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
