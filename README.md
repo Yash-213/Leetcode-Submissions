@@ -61,6 +61,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0877-stone-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0877-stone-game/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
+| [0969-pancake-sorting](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0969-pancake-sorting/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
@@ -180,6 +181,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0011-container-with-most-water](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0969-pancake-sorting](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0969-pancake-sorting/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -458,6 +460,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0969-pancake-sorting](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0969-pancake-sorting/) | Medium |
 | [1861-rotating-the-box](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -560,6 +563,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0645-set-mismatch/) | Easy |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
+| [0969-pancake-sorting](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0969-pancake-sorting/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1122-relative-sort-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1122-relative-sort-array/) | Easy |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
