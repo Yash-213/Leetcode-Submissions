@@ -266,6 +266,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -574,6 +575,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1630-arithmetic-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1859-sorting-the-sentence](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -874,6 +876,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1122-relative-sort-array/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
