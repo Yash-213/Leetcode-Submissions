@@ -499,6 +499,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0788-rotated-digits/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0877-stone-game/) | Medium |
 | [1017-convert-to-base-2](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1017-convert-to-base-2/) | Medium |
 | [1103-distribute-candies-to-people](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1103-distribute-candies-to-people/) | Easy |
@@ -881,4 +882,8 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
