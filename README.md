@@ -21,6 +21,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0051-n-queens](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0051-n-queens/) | Hard |
 | [0056-merge-intervals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0066-plus-one](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0079-word-search/) | Medium |
@@ -486,6 +487,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0007-reverse-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0171-excel-sheet-column-number/) | Easy |
