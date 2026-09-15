@@ -63,6 +63,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0877-stone-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0877-stone-game/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
+| [0941-valid-mountain-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0969-pancake-sorting](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0969-pancake-sorting/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
