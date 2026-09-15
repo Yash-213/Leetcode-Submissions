@@ -77,6 +77,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1441-build-an-array-with-stack-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1470-shuffle-the-array/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1528-shuffle-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1528-shuffle-string/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -639,6 +640,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -676,6 +678,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0042-trapping-rain-water](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
