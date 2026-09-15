@@ -55,6 +55,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0682-baseball-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0682-baseball-game/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
+| [0739-daily-temperatures](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0739-daily-temperatures/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -634,6 +635,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0503-next-greater-element-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0682-baseball-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -678,6 +680,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0042-trapping-rain-water](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Number Theory
