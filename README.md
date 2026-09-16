@@ -384,6 +384,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -525,6 +526,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2582-pass-the-pillow](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2582-pass-the-pillow/) | Easy |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
@@ -691,6 +693,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [1447-simplified-fractions](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1447-simplified-fractions/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
