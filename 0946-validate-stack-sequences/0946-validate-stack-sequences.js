@@ -3,22 +3,18 @@
  * @param {number[]} popped
  * @return {boolean}
  */
-var validateStackSequences = function(pushed, popped) {
-    const n = pushed.length;
-        const sk = new Stack();
+var validateStackSequences = function (pushed, popped) {
+    const sk = [];
+    let idx = 0;
 
-        let l = 0;
-        let idx = 0;
+    for (const num of pushed) {
+        sk.push(num);
 
-        while (l < n && idx < n) {
-
-            sk.push(pushed[l++]);
-
-            while (!sk.isEmpty() && sk.peek() == popped[idx]) {
-                sk.pop();
-                idx++;
-            }
+        while (sk.length > 0 && sk[sk.length - 1] === popped[idx]) {
+            sk.pop();
+            idx++;
         }
+    }
 
-        return sk.isEmpty();
+    return sk.length === 0;
 };
