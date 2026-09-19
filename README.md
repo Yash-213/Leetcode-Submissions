@@ -518,6 +518,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1447-simplified-fractions](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1447-simplified-fractions/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
@@ -910,6 +911,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
