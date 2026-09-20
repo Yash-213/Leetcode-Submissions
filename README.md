@@ -373,6 +373,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0024-swap-nodes-in-pairs](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0143-reorder-list/) | Medium |
@@ -639,6 +640,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0042-trapping-rain-water](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -807,6 +809,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0079-word-search](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0200-number-of-islands/) | Medium |
@@ -867,6 +870,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0094-binary-tree-inorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -878,6 +882,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0094-binary-tree-inorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
