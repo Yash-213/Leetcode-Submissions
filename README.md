@@ -10,6 +10,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0014-longest-common-prefix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0037-sudoku-solver/) | Hard |
@@ -462,6 +463,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0011-container-with-most-water](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0061-rotate-list/) | Medium |
@@ -572,6 +574,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0015-3sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0148-sort-list/) | Medium |
