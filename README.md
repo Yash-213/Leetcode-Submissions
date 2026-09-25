@@ -67,6 +67,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0893-groups-of-special-equivalent-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0941-valid-mountain-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0969-pancake-sorting](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0969-pancake-sorting/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -337,6 +338,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0844-backspace-string-compare](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0946-validate-stack-sequences/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1103-distribute-candies-to-people](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -588,6 +590,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0628-maximum-product-of-three-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0645-set-mismatch/) | Easy |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0969-pancake-sorting](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0969-pancake-sorting/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1122-relative-sort-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1122-relative-sort-array/) | Easy |
@@ -874,6 +877,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
