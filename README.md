@@ -96,6 +96,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1732-find-the-highest-altitude](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -276,6 +277,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -432,6 +434,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1630-arithmetic-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1980-find-unique-binary-string/) | Medium |
