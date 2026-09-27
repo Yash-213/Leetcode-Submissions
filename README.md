@@ -264,6 +264,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -671,6 +672,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0946-validate-stack-sequences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -934,6 +936,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
