@@ -937,6 +937,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
