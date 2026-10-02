@@ -786,6 +786,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0181-employees-earning-more-than-their-managers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0197-rising-temperature](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0197-rising-temperature/) | Easy |
+| [1407-top-travellers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1407-top-travellers/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
