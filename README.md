@@ -192,6 +192,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0969-pancake-sorting](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0969-pancake-sorting/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
@@ -260,6 +261,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0520-detect-capital](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0796-rotate-string/) | Easy |
 | [0824-goat-latin](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0824-goat-latin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
@@ -676,6 +678,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0496-next-greater-element-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0636-exclusive-time-of-functions/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
@@ -773,6 +776,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0131-palindrome-partitioning](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0396-rotate-function](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0486-predict-the-winner/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0877-stone-game/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -954,6 +958,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0020-valid-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
