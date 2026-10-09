@@ -199,6 +199,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -282,6 +283,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1447-simplified-fractions](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1447-simplified-fractions/) | Medium |
 | [1528-shuffle-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1528-shuffle-string/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1544-make-the-string-great](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1544-make-the-string-great/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -695,6 +697,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1381-design-a-stack-with-increment-operation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1544-make-the-string-great](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -968,6 +971,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1021-remove-outermost-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
