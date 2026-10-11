@@ -136,6 +136,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2615-sum-of-distances](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2895-minimum-processing-time](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2895-minimum-processing-time/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
@@ -901,6 +902,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
