@@ -1,29 +1,33 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        List<Integer> l = new ArrayList<>();
-        ListNode h1 = head;
-        while (h1 != null) {
-            l.add(h1.val);
-            h1 = h1.next;
+        ListNode slow = head;
+        ListNode fast = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        return isPal(l);
+        ListNode re = reverse(slow);
+        return isPal(head, re);
     }
-    private static boolean isPal(List<Integer> l) {
-        int s = 0, e = l.size() - 1;
-        while (s < e) {
-            if (l.get(s) != l.get(e)) return false;
-            s++;
-            e--;
+    private static ListNode reverse (ListNode head) {
+        ListNode curr = head;
+        ListNode prev = null;
+
+        while (curr != null) {
+            ListNode temp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = temp;
+        }
+        return prev;
+    }
+    private static boolean isPal (ListNode head, ListNode reverse) {
+        ListNode f = head;
+        ListNode s = reverse;
+        while (s != null) {
+            if (f.val != s.val) return false;
+            f = f.next;
+            s = s.next;
         }
         return true;
     }
