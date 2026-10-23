@@ -73,6 +73,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0997-find-the-town-judge](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1122-relative-sort-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1122-relative-sort-array/) | Easy |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -726,6 +727,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0476-number-complement](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0476-number-complement/) | Easy |
 | [0645-set-mismatch](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
