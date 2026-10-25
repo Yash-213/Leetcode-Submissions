@@ -77,6 +77,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1122-relative-sort-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1122-relative-sort-array/) | Easy |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1170-compare-strings-by-frequency-of-the-smallest-character/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1306-jump-game-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1306-jump-game-iii/) | Medium |
@@ -235,6 +236,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0240-search-a-2d-matrix-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0766-toeplitz-matrix/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -889,6 +891,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -897,6 +900,7 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0200-number-of-islands/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Trie
@@ -918,6 +922,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0200-number-of-islands](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Graph Theory
