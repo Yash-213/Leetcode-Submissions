@@ -332,6 +332,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3174-clear-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3174-clear-digits/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3227-vowels-game-in-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3271-hash-divided-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3271-hash-divided-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -578,6 +579,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2864-maximum-odd-binary-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
@@ -745,6 +747,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1927-sum-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2029-stone-game-ix/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1057,4 +1060,8 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3227-vowels-game-in-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
