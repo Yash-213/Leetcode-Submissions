@@ -271,6 +271,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0415-add-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0459-repeated-substring-pattern](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0504-base-7](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0504-base-7/) | Easy |
 | [0520-detect-capital](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0541-reverse-string-ii/) | Easy |
@@ -944,6 +945,7 @@ In this repo i stored ans of leetcode quetions in java language
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0796-rotate-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -1073,4 +1075,12 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
