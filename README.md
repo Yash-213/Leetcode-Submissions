@@ -392,6 +392,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2562-find-the-array-concatenation-value](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2582-pass-the-pillow](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2582-pass-the-pillow/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3100-water-bottles-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3100-water-bottles-ii/) | Medium |
 | [3174-clear-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3174-clear-digits/) | Easy |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3271-hash-divided-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3271-hash-divided-string/) | Medium |
@@ -586,6 +587,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3100-water-bottles-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3100-water-bottles-ii/) | Medium |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
