@@ -152,6 +152,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
