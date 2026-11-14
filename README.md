@@ -157,6 +157,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
@@ -699,6 +700,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2640-find-the-score-of-all-prefixes-of-an-array/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3788-maximum-score-of-a-split](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3788-maximum-score-of-a-split/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -874,6 +876,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
