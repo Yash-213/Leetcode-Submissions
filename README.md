@@ -159,6 +159,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3354-make-array-elements-equal-to-zero](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3446-sort-matrix-by-diagonals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -256,6 +257,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3446-sort-matrix-by-diagonals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -672,6 +674,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3446-sort-matrix-by-diagonals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
