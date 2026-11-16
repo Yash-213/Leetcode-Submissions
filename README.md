@@ -87,6 +87,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -381,6 +382,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0950-reveal-cards-in-increasing-order](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1103-distribute-candies-to-people](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1260-shift-2d-grid/) | Easy |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1806-minimum-number-of-operations-to-reinitialize-a-permutation/) | Medium |
@@ -1074,6 +1076,7 @@ In this repo i stored ans of leetcode quetions in java language
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -1099,4 +1102,8 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Sqrt Decomposition
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 <!---LeetCode Topics End-->
