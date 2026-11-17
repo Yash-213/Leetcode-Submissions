@@ -1,22 +1,33 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        List<Integer> positiveElem = new ArrayList<>();
-        List<Integer> negativeElem = new ArrayList<>();
-
-        for (int num : nums) {
-            if (num < 0) negativeElem.add(num);
-            else positiveElem.add(num);
-        }
-
         int n = nums.length;
-        int[] answer = new int[n];
-        int idx = 0;
 
-        for (int i = 0; i < n; i += 2) {
-            answer[i] = positiveElem.get(idx);
-            answer[i + 1] = negativeElem.get(idx++);
+        int positive = 0; // point +ve element
+        int negative = 0; // point -ve element
+
+        int[] answer = new int[n]; 
+
+        boolean flag = true; // first elem is +ve so flag is true
+
+        for (int i = 0; i < n; i++) {
+            if (flag) {
+                while (nums[positive] < 0) // find positive element
+                    positive++; 
+
+                // assign positive element 
+                answer[i] = nums[positive++]; 
+            } else {
+                while (nums[negative] > 0) // find negative element
+                    negative++;
+
+                // assign negative element 
+                answer[i] = nums[negative++];
+            }
+
+            flag = !flag; // convert +ve to -ve or vice versa
         }
         
+        // return modified array after rearranging the element
         return answer;
     }
 }
