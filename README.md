@@ -132,6 +132,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -400,6 +401,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2161-partition-array-according-to-given-pivot](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -597,6 +599,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2029-stone-game-ix](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2582-pass-the-pillow](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2582-pass-the-pillow/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -795,6 +798,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [1447-simplified-fractions](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1447-simplified-fractions/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -1114,4 +1118,8 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 <!---LeetCode Topics End-->
