@@ -360,6 +360,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [4106-find-mismatched-segments-between-two-strings](https://github.com/Yash-213/Leetcode-Submissions/tree/main/4106-find-mismatched-segments-between-two-strings/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
