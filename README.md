@@ -88,6 +88,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1381-design-a-stack-with-increment-operation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -308,6 +309,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1447-simplified-fractions](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1447-simplified-fractions/) | Medium |
 | [1528-shuffle-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1528-shuffle-string/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
@@ -484,6 +486,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1331-rank-transform-of-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1630-arithmetic-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -668,6 +671,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1331-rank-transform-of-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1630-arithmetic-subarrays/) | Medium |
@@ -1129,4 +1133,8 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 <!---LeetCode Topics End-->
