@@ -185,6 +185,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3788-maximum-score-of-a-split](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3788-maximum-score-of-a-split/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3843-first-element-with-unique-frequency](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -516,6 +517,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3843-first-element-with-unique-frequency](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -918,6 +920,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
+| [3843-first-element-with-unique-frequency](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
