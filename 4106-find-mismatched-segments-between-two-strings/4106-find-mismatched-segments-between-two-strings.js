@@ -4,26 +4,25 @@
  * @return {string[][]}
  */
 var findMismatchedSegments = function (s1, s2) {
-    const n = s1.length;
-    let l = 0;
-    let r = 0;
     const list = [];
-    while (l < n) {
-        if (s1[l] === s2[r]) {
-            l++;
-            r++;
-        } else {
-            const inner = [];
-            let sb1 = "";
-            let sb2 = "";
-            while (l < n && s1[l] !== s2[r]) {
-                sb1 += s1[l++];
-                sb2 += s2[r++];
-            }
-            inner.push(sb1);
-            inner.push(sb2);
-            list.push(inner);
+    let i = 0;
+
+    while (i < s1.length) {
+        if (s1[i] === s2[i]) {
+            i++;
+            continue;
         }
+
+        const st = i;
+
+        while (i < s1.length && s1[i] !== s2[i]) 
+            i++;
+
+        list.push([
+            s1.slice(st, i),
+            s2.slice(st, i)
+        ]);
     }
+
     return list;
 };
