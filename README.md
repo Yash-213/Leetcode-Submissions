@@ -84,6 +84,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1306-jump-game-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -595,6 +596,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1447-simplified-fractions](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1447-simplified-fractions/) | Medium |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
@@ -715,6 +717,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [0713-subarray-product-less-than-k](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -878,6 +881,7 @@ In this repo i stored ans of leetcode quetions in java language
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0707-design-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/0707-design-linked-list/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [2043-simple-bank-system](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2043-simple-bank-system/) | Medium |
 ## Concurrency
@@ -1138,4 +1142,8 @@ In this repo i stored ans of leetcode quetions in java language
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
