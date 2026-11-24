@@ -165,6 +165,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
@@ -621,6 +622,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3227-vowels-game-in-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -814,6 +816,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
@@ -907,6 +910,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3095-shortest-subarray-with-or-at-least-k-i/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -998,6 +1002,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [1291-sequential-digits](https://github.com/Yash-213/Leetcode-Submissions/tree/main/1291-sequential-digits/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
