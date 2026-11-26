@@ -424,6 +424,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3222-find-the-winning-player-in-coin-game/) | Easy |
 | [3271-hash-divided-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3271-hash-divided-string/) | Medium |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3360-stone-removal-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -624,6 +625,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3227-vowels-game-in-a-string](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3492-maximum-containers-on-a-ship](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
