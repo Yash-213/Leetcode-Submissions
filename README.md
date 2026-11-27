@@ -365,6 +365,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3713-longest-balanced-substring-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -520,6 +521,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3713-longest-balanced-substring-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -937,6 +939,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [2833-furthest-point-from-origin](https://github.com/Yash-213/Leetcode-Submissions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3713-longest-balanced-substring-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3852-smallest-pair-with-different-frequencies/) | Easy |
@@ -1010,6 +1013,7 @@ In this repo i stored ans of leetcode quetions in java language
 | [3411-maximum-subarray-with-equal-products](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3713-longest-balanced-substring-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3713-longest-balanced-substring-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Yash-213/Leetcode-Submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
